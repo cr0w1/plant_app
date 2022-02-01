@@ -66,7 +66,6 @@ Meu primeiro projeto desenvolvido em Flutter.
 
 <p align="center">
   <a href="https://imgur.com/WDzm4gX"><img src="https://i.imgur.com/WDzm4gX.png" title="source: imgur.com" height="400px"/></a>
-
   <a href="https://imgur.com/fS3tup1"><img src="https://i.imgur.com/fS3tup1.png" title="source: imgur.com" height="400px" width="190px"/></a>
 </p>
 
